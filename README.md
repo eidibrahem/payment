@@ -3,8 +3,7 @@
 paypal and tap  Flutter project.
 <video width="320" height="240" controls>
   <source src="https://user-images.githubusercontent.com/73886537/222849500-46c96b95-88c5-4785-9984-e0205fa23bb3.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
+
 </video>
 ## Getting Started
 
